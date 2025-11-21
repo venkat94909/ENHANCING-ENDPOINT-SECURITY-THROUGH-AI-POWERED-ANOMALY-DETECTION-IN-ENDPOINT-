@@ -1,0 +1,2 @@
+# ENHANCING-ENDPOINT-SECURITY-THROUGH-AI-POWERED-ANOMALY-DETECTION-IN-ENDPOINT-
+“Enhancing Endpoint Security through AI-Powered Anomaly Detection in Endpoint Logs” focuses on developing an intelligent system that strengthens endpoint protection by automatically identifying suspicious activities and potential security breaches. The project leverages machine learning and artificial intelligence to analyze large volumes endpoind
